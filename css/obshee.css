@@ -1,0 +1,41 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+
+a{
+    text-decoration:none;
+    color:rgb(117, 58, 255);
+    font-size:18px;
+}
+
+.limit{
+    /* 1 Fonts */
+    font-family: 'Comfortaa', cursive;
+    width:1110px;
+    max-height:100%;
+    margin:0 auto;
+}
+/* 
+.logo{
+    margin-bottom:60px;
+    font-size:26px;
+    text-align:center;
+}
+
+.paragraf{
+    font-size:18px;
+    padding:10px;
+    line-height: 40px;
+}
+
+.sil{
+    color:rgb(0, 137, 179);
+    font-size:20px;
+}
+
+.img{
+    width:100%;
+    padding:10px;
+} */
